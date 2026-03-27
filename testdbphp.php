@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Northland Analytics PHP/MySQL Test Page</title>
+    <title>Northland Analytics Employee Management System</title>
 </head>
 <body>
 
